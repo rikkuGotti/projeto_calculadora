@@ -19,6 +19,10 @@ public class Calculadora {
     /** Mensagem devolvida quando há tentativa de divisão por zero. */
     public static final String MSG_DIVISAO_POR_ZERO = "Erro: divisão por zero";
 
+    /** Cria uma nova calculadora. */
+    public Calculadora() {
+    }
+
     /**
      * Executa uma operação matemática básica entre dois números inteiros.
      *

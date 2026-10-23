@@ -17,6 +17,10 @@ public class TesteCalculadora {
     /** Quantidade de testes que passaram. */
     private static int testesAprovados = 0;
 
+    /** Classe utilitária de testes; não precisa ser instanciada. */
+    public TesteCalculadora() {
+    }
+
     /**
      * Executa um teste e imprime entradas, resultado esperado e obtido.
      *
