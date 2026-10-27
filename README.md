@@ -57,12 +57,11 @@ javadoc -encoding UTF-8 -docencoding UTF-8 -private -author -version -d docs cal
 
 ## Refatoração (branch `Refatoracao`)
 
-- Extração de um método para cada operação (`somar`, `subtrair`, `multiplicar`, `dividir`).
-- `if/else` aninhados substituídos por `switch`.
-- Mensagens de erro centralizadas em constantes.
+- Extração do método `dividir`, que trata a divisão por zero.
+- `if/else` aninhados trocados por `if` simples em sequência.
 - Melhoria de nomes de variáveis e adição de JavaDoc e comentários.
 
-Após a refatoração, os 7 testes foram executados novamente e todos passaram.
+Após a refatoração, os 6 testes foram executados novamente e todos passaram.
 
 ## Prints da execução dos testes
 

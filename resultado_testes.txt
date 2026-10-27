@@ -1,43 +1,36 @@
 Teste: Soma
-  Entradas: a=10, b=5, op="+"
+  Entradas: a=10, b=5, op=+
   Esperado: 15
   Obtido:   15
-  Resultado: PASSOU
+  PASSOU
 
 Teste: Subtração
-  Entradas: a=10, b=5, op="-"
+  Entradas: a=10, b=5, op=-
   Esperado: 5
   Obtido:   5
-  Resultado: PASSOU
+  PASSOU
 
 Teste: Multiplicação
-  Entradas: a=10, b=5, op="*"
+  Entradas: a=10, b=5, op=*
   Esperado: 50
   Obtido:   50
-  Resultado: PASSOU
+  PASSOU
 
 Teste: Divisão
-  Entradas: a=10, b=4, op="/"
+  Entradas: a=10, b=4, op=/
   Esperado: 2.5
   Obtido:   2.5
-  Resultado: PASSOU
+  PASSOU
 
 Teste: Divisão por zero
-  Entradas: a=10, b=0, op="/"
+  Entradas: a=10, b=0, op=/
   Esperado: Erro: divisão por zero
   Obtido:   Erro: divisão por zero
-  Resultado: PASSOU
+  PASSOU
 
 Teste: Operação inválida
-  Entradas: a=10, b=5, op="%"
+  Entradas: a=10, b=5, op=%
   Esperado: Operação inválida
   Obtido:   Operação inválida
-  Resultado: PASSOU
+  PASSOU
 
-Teste: Operação nula
-  Entradas: a=10, b=5, op="null"
-  Esperado: Operação inválida
-  Obtido:   Operação inválida
-  Resultado: PASSOU
-
-Resumo: 7 de 7 testes passaram.
