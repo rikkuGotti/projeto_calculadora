@@ -184,4 +184,4 @@ A documentação HTML fica em `docs/`. Abra `docs/index.html` no navegador.
 
 ## 14. Repositório
 
-Link do repositório: https://github.com/SEU_USUARIO/projeto_calculadora
+Link do repositório: https://github.com/rikkuGotti/projeto_calculadora
