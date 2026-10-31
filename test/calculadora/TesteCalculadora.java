@@ -3,7 +3,7 @@ package calculadora;
 /**
  * Testes da classe Calculadora.
  *
- * @author Aluno
+ * @author Enrico Pimentel Gotti Encarnação
  * @version 3.0
  */
 public class TesteCalculadora {

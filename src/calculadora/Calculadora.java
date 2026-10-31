@@ -3,7 +3,7 @@ package calculadora;
 /**
  * Calculadora simples com as quatro operações básicas.
  *
- * @author Aluno
+ * @author Enrico Pimentel Gotti Encarnação
  * @version 3.0
  */
 public class Calculadora {
