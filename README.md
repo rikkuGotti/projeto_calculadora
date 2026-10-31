@@ -8,11 +8,11 @@ Projeto acadêmico desenvolvido com foco em Qualidade de Software, Testes, Refat
 |---|---|
 | Projeto | Projeto Calculadora |
 | Contexto | FinançApp |
-| Aluno | Nome do aluno |
-| RA | XXXXXXX |
-| Curso | Nome do curso |
-| Disciplina | Nome da disciplina |
-| Professor | Nome do professor |
+| Aluno | Enrico Pimentel Gotti Encarnação |
+| RA | 250779 |
+| Curso | Análise e Desenvolvimento de Sistemas |
+| Disciplina | UX UI e Testes de Software |
+| Professor | Ohata |
 | Semestre | 2026.2 |
 
 ## 2. Visão Geral
